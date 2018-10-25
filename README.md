@@ -13,7 +13,7 @@ Windows Installation: ```Command Prompt> java -jar "D:\CS 232\Lab2A\dist\Lab2A.j
 ## Usage
 This starter program for most new java code users is a great example for using some of the functions inside within the code. Seeing as the user of a program like this will most likely be a beginner, it allows them to use some of the more basic features within java.
 ## How To
-After lauched within the command prompt, the user will be asked to input 10 integers between 1 and 100. After the tenth integer, the program will print out the largest and the smallest along with the average of all of the numbers entered. 
+Once the program is called through the command prompt, you’re prompted to enter 10 integers between 1 and 100. You then would enter any numbers you want within the range given, and hit enter! Then the program will run through each number and pick out the largest, smallest, and the average of the numbers given.
 ## Inside The Code
 #### Use of "for loops" and "if" statements to find the largest and smallest number.
 * This is an example of how the scanner tool "gets" the users input for the numbers guesses.
