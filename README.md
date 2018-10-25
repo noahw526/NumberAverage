@@ -17,4 +17,5 @@ Once the program is called through the command prompt, you’re prompted to ente
 ## Inside The Code
 #### Use of "for loops" and "if" statements to find the largest and smallest number.
 * This is an example of how the scanner tool "gets" the users input for the numbers guesses.
+
 ![7](https://user-images.githubusercontent.com/44411425/47525115-0cec2f80-d862-11e8-99a1-f17f028ce66d.PNG)
